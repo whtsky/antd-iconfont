@@ -1,0 +1,26 @@
+{
+  "name": "@whtsky/antd-iconfont",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whtsky/antd-iconfont.git"
+  },
+  "keywords": [
+    "antd",
+    "ant design",
+    "iconfont"
+  ],
+  "homepage": "https://github.com/whtsky/antd-iconfont#readme",
+  "files": [
+    "iconfont.eot",
+    "iconfont.svg",
+    "iconfont.ttf",
+    "iconfont.woff"
+  ]
+}
